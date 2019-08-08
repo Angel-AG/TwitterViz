@@ -1,0 +1,2 @@
+# TwitterViz
+A Twitter App to visualize data by plotting the frequency of Tweets & Replies and Retweets & Favs through time to help you determine which type of user a Twitter user is, an active user or a lurker.
